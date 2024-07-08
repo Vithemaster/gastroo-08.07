@@ -1,0 +1,35 @@
+/* Global Styles */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --basesize: 18px;
+    --scale: 1;
+    --baseweight: normal;
+    --lineheight: 1.3;
+    --bodyweight: normal;
+    --bodylineheight: 1.7;
+    --mainfont: "area-normal";
+    --bodyfont: "area-normal";
+    --ah-fontSize: 12px;
+    --ah-white: #fff;
+    --ah-white-hover: #eaeaea;
+    --ah-primary: #5546ff;
+    --ah-primary-hover: #3f30dc;
+    --ah-secondary: #0076f1;
+    --ah-secondary-hover: #0056b3;
+    --ah-warning: #f90;
+    --ah-warning-hover: #b07c21;
+    --ah-danger: #e9162b;
+    --ah-success: #21a67a;
+    --ah-success-hover: #14664b;
+    --ah-dark: #000;
+    --ah-yellow-100: #f0a92e;
+    --ah-yellow-300: #b07c21;
+    --ah-red-100: #e9162b;
+    --ah-red-200: #d81124;
+    --ah-red-300: #a80f1e;
+    --ah-green-100: #21a67a;
+    --ah-green-200: #009
